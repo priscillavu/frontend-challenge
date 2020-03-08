@@ -28,13 +28,14 @@
 
   .busnumber {
     color: var(--white);
-    width: 400px;
+    width: auto;
     padding: 10px;
     border-radius: 10px;
     background: #5AC7FA;
   }
 
   h1 {
+      color: #939393;
       padding-top: 10px;
   }
 
@@ -51,7 +52,7 @@
   .row{
     height: 75px;  
     padding-top: 20px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
   }
 
   .destination {
